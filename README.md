@@ -40,19 +40,19 @@
 <li>Bonus:</li>
 <ul>Application allows users to delete notes.</ul>
 
-<h2>Screenshots (home page before the notes are launched)</h2>
+<h2>Screenshot 1 (home page before the notes are launched)</h2>
 
 ![image](https://github.com/tornicke/note-taker/blob/main/images/Screenshot_1.png)
 
-<h2>Screenshots (after notes are launched and before the first note is written)</h2>
+<h2>Screenshot 2 (after notes are launched and before the first note is written)</h2>
 
 ![image](https://github.com/tornicke/note-taker/blob/main/images/Screenshot_2.png)
 
-<h2>Screenshots (showing the first 3 notes)</h2>
+<h2>Screenshot 3 (showing the first 3 notes)</h2>
 
 ![image](https://github.com/tornicke/note-taker/blob/main/images/Screenshot_3.png)
 
-<h2>Screenshots (deleting the last note [about the invoices] and adding a new one instead of it)</h2>
+<h2>Screenshot 4 (deleting the last note [about the invoices] and adding a new one instead of it)</h2>
 
 ![image](https://github.com/tornicke/note-taker/blob/main/images/Screenshot_4.png)
 
